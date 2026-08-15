@@ -1,0 +1,25 @@
+# Raw / large data (from SRA / Genotyper, never committed)
+*.fastq*
+*.fq.gz
+*.bam
+*.sam
+*.var
+data/raw_var/
+data/raw_perposition/
+*.zip
+# OS / R / Python
+.DS_Store
+.Rhistory
+.RData
+Rplots.pdf
+__pycache__/
+*.pyc
+
+# generated figures — regenerate with the plot_*.R scripts
+results/figures/
+*_editing.pdf
+*_editing.png
+bystander_scan.*
+coverage.pdf
+coverage.png
+Rplots.pdf

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "C9ORF72 5′UTR translational control — RNA-editing analysis code"
+authors:
+  - {given-names: "Solomon A.", family-names: "Haizel"}
+  - {given-names: "Alfredo", family-names: "Vidal Ceballos"}
+  - {given-names: "Alice Nayoung", family-names: "Ko"}
+  - {given-names: "Lucas", family-names: "Lyu"}
+  - {given-names: "Lauren", family-names: "Manning"}
+  - {given-names: "Xinyi", family-names: "Ge"}
+  - {given-names: "Violet", family-names: "Park"}
+  - {given-names: "Huijing", family-names: "Zou"}
+  - {given-names: "Churong", family-names: "Cheng"}
+  - {given-names: "Richmond", family-names: "Afful"}
+  - {given-names: "Serena", family-names: "Kher"}
+  - {given-names: "Anthony", family-names: "Widjaja"}
+  - {given-names: "Joanetta", family-names: "Jean-Baptiste"}
+  - {given-names: "Sasha", family-names: "Khazhinsky"}
+  - {given-names: "Pieter", family-names: "Spealman"}
+  - {given-names: "Alisha N.", family-names: "Jones"}
+  - {given-names: "Leos", family-names: "Valasek"}
+  - {given-names: "Christine", family-names: "Vogel"}
+preferred-citation:
+  type: article
+  title: "Buffered repression through a multi-component 5′UTR system ensures precise translational control of C9ORF72"
+  authors:
+    - {given-names: "Solomon A.", family-names: "Haizel"}
+    - {given-names: "Christine", family-names: "Vogel"}
+  year: 2025
+  notes: "Preprint DOI to be added; replace with the published DOI on acceptance."

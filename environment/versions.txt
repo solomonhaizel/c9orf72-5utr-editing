@@ -1,0 +1,15 @@
+# Software environment
+
+Python: Python 3.12.3
+R:      R version 4.3.3 (2024-02-29)
+
+## R packages used
+  ggplot2 3.4.4
+  scales 1.3.0
+
+## Python
+  standard library only (csv, glob, os, argparse); no third-party packages.
+
+A pinned renv.lock is not included; the analysis uses only base R plus
+ggplot2 and scales, and base Python. Recorded versions above are the
+reference environment. To pin exactly, run renv::init() in R.

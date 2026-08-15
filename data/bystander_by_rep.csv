@@ -1,0 +1,385 @@
+condition,rep,run,position,edit_pct,site_type
+A74 0.3 uM,1,run1,30,1.3365,other
+A74 0.3 uM,1,run1,36,0.9108,other
+A74 0.3 uM,1,run1,47,0.2341,other
+A74 0.3 uM,1,run1,52,0.0,other
+A74 0.3 uM,1,run1,54,0.0,other
+A74 0.3 uM,1,run1,62,0.0,other
+A74 0.3 uM,1,run1,65,0.0,other
+A74 0.3 uM,1,run1,71,0.0242,other
+A74 0.3 uM,1,run1,73,1.0884,other
+A74 0.3 uM,1,run1,74,10.6201,target
+A74 0.3 uM,1,run1,79,0.3101,other
+A74 0.3 uM,1,run1,81,0.5009,other
+A74 0.3 uM,1,run1,87,0.2036,other
+A74 0.3 uM,1,run1,88,1.6216,target
+A74 0.3 uM,1,run1,92,0.2087,other
+A74 0.3 uM,1,run1,96,0.2266,other
+A74 0.3 uM,2,run2,30,1.9419,other
+A74 0.3 uM,2,run2,36,2.1715,other
+A74 0.3 uM,2,run2,47,0.7961,other
+A74 0.3 uM,2,run2,52,0.0708,other
+A74 0.3 uM,2,run2,54,1.3075,other
+A74 0.3 uM,2,run2,62,0.132,other
+A74 0.3 uM,2,run2,65,0.234,other
+A74 0.3 uM,2,run2,71,0.1427,other
+A74 0.3 uM,2,run2,73,4.6609,other
+A74 0.3 uM,2,run2,74,19.068,target
+A74 0.3 uM,2,run2,79,1.5721,other
+A74 0.3 uM,2,run2,81,1.7243,other
+A74 0.3 uM,2,run2,87,0.3478,other
+A74 0.3 uM,2,run2,88,3.1888,target
+A74 0.3 uM,2,run2,92,0.6853,other
+A74 0.3 uM,2,run2,96,1.384,other
+A74 0.3 uM,3,run3,30,0.902,other
+A74 0.3 uM,3,run3,36,1.0714,other
+A74 0.3 uM,3,run3,47,0.441,other
+A74 0.3 uM,3,run3,52,0.0287,other
+A74 0.3 uM,3,run3,54,0.6461,other
+A74 0.3 uM,3,run3,62,0.0867,other
+A74 0.3 uM,3,run3,65,0.203,other
+A74 0.3 uM,3,run3,71,0.0145,other
+A74 0.3 uM,3,run3,73,2.1934,other
+A74 0.3 uM,3,run3,74,8.0843,target
+A74 0.3 uM,3,run3,79,0.9356,other
+A74 0.3 uM,3,run3,81,0.9723,other
+A74 0.3 uM,3,run3,87,0.1472,other
+A74 0.3 uM,3,run3,88,1.746,target
+A74 0.3 uM,3,run3,92,0.3243,other
+A74 0.3 uM,3,run3,96,0.9479,other
+A74 0.3 uM,4,run4,30,1.7747,other
+A74 0.3 uM,4,run4,36,1.9381,other
+A74 0.3 uM,4,run4,47,0.5709,other
+A74 0.3 uM,4,run4,52,0.0375,other
+A74 0.3 uM,4,run4,54,0.8378,other
+A74 0.3 uM,4,run4,62,0.1158,other
+A74 0.3 uM,4,run4,65,0.2253,other
+A74 0.3 uM,4,run4,71,0.1065,other
+A74 0.3 uM,4,run4,73,2.5037,other
+A74 0.3 uM,4,run4,74,8.9462,target
+A74 0.3 uM,4,run4,79,0.8778,other
+A74 0.3 uM,4,run4,81,1.2949,other
+A74 0.3 uM,4,run4,87,0.16,other
+A74 0.3 uM,4,run4,88,1.6756,target
+A74 0.3 uM,4,run4,92,0.3983,other
+A74 0.3 uM,4,run4,96,0.8853,other
+A74 1 uM,1,run1,30,2.811,other
+A74 1 uM,1,run1,36,2.1515,other
+A74 1 uM,1,run1,47,0.487,other
+A74 1 uM,1,run1,52,0.0,other
+A74 1 uM,1,run1,54,0.0,other
+A74 1 uM,1,run1,62,0.0,other
+A74 1 uM,1,run1,65,0.0,other
+A74 1 uM,1,run1,71,0.034,other
+A74 1 uM,1,run1,73,2.4804,other
+A74 1 uM,1,run1,74,20.4663,target
+A74 1 uM,1,run1,79,0.5863,other
+A74 1 uM,1,run1,81,0.9974,other
+A74 1 uM,1,run1,87,0.1161,other
+A74 1 uM,1,run1,88,1.3219,target
+A74 1 uM,1,run1,92,0.4563,other
+A74 1 uM,1,run1,96,0.5219,other
+A74 1 uM,2,run2,30,2.2099,other
+A74 1 uM,2,run2,36,1.7505,other
+A74 1 uM,2,run2,47,0.5225,other
+A74 1 uM,2,run2,52,0.0298,other
+A74 1 uM,2,run2,54,0.6461,other
+A74 1 uM,2,run2,62,0.0801,other
+A74 1 uM,2,run2,65,0.1805,other
+A74 1 uM,2,run2,71,0.1008,other
+A74 1 uM,2,run2,73,5.3588,other
+A74 1 uM,2,run2,74,31.9379,target
+A74 1 uM,2,run2,79,0.9093,other
+A74 1 uM,2,run2,81,1.1517,other
+A74 1 uM,2,run2,87,0.1925,other
+A74 1 uM,2,run2,88,2.6645,target
+A74 1 uM,2,run2,92,0.8914,other
+A74 1 uM,2,run2,96,1.0532,other
+A74 1 uM,3,run3,30,1.1798,other
+A74 1 uM,3,run3,36,1.3318,other
+A74 1 uM,3,run3,47,0.5141,other
+A74 1 uM,3,run3,52,0.0436,other
+A74 1 uM,3,run3,54,0.6114,other
+A74 1 uM,3,run3,62,0.0731,other
+A74 1 uM,3,run3,65,0.1975,other
+A74 1 uM,3,run3,71,0.022,other
+A74 1 uM,3,run3,73,1.9852,other
+A74 1 uM,3,run3,74,11.3978,target
+A74 1 uM,3,run3,79,0.8579,other
+A74 1 uM,3,run3,81,0.9689,other
+A74 1 uM,3,run3,87,0.0958,other
+A74 1 uM,3,run3,88,1.6498,target
+A74 1 uM,3,run3,92,0.3465,other
+A74 1 uM,3,run3,96,0.7264,other
+A74 1 uM,4,run4,30,1.3749,other
+A74 1 uM,4,run4,36,1.3672,other
+A74 1 uM,4,run4,47,0.4109,other
+A74 1 uM,4,run4,52,0.0303,other
+A74 1 uM,4,run4,54,0.4976,other
+A74 1 uM,4,run4,62,0.0866,other
+A74 1 uM,4,run4,65,0.1083,other
+A74 1 uM,4,run4,71,0.104,other
+A74 1 uM,4,run4,73,2.6967,other
+A74 1 uM,4,run4,74,17.2131,target
+A74 1 uM,4,run4,79,0.529,other
+A74 1 uM,4,run4,81,0.8154,other
+A74 1 uM,4,run4,87,0.1477,other
+A74 1 uM,4,run4,88,1.2514,target
+A74 1 uM,4,run4,92,0.3478,other
+A74 1 uM,4,run4,96,0.5177,other
+A88 0.3 uM,1,run1,30,1.4994,other
+A88 0.3 uM,1,run1,36,1.4744,other
+A88 0.3 uM,1,run1,47,0.2353,other
+A88 0.3 uM,1,run1,52,0.0,other
+A88 0.3 uM,1,run1,54,0.0,other
+A88 0.3 uM,1,run1,62,0.0,other
+A88 0.3 uM,1,run1,65,0.0,other
+A88 0.3 uM,1,run1,71,0.0248,other
+A88 0.3 uM,1,run1,73,1.7039,other
+A88 0.3 uM,1,run1,74,3.3769,target
+A88 0.3 uM,1,run1,79,0.7085,other
+A88 0.3 uM,1,run1,81,0.7632,other
+A88 0.3 uM,1,run1,87,0.1288,other
+A88 0.3 uM,1,run1,88,17.03,target
+A88 0.3 uM,1,run1,92,0.3866,other
+A88 0.3 uM,1,run1,96,0.6671,other
+A88 0.3 uM,2,run6,30,1.0987,other
+A88 0.3 uM,2,run6,36,1.4372,other
+A88 0.3 uM,2,run6,47,0.4844,other
+A88 0.3 uM,2,run6,52,0.0724,other
+A88 0.3 uM,2,run6,54,0.7969,other
+A88 0.3 uM,2,run6,62,0.1245,other
+A88 0.3 uM,2,run6,65,0.1555,other
+A88 0.3 uM,2,run6,71,0.0312,other
+A88 0.3 uM,2,run6,73,2.006,other
+A88 0.3 uM,2,run6,74,2.8312,target
+A88 0.3 uM,2,run6,79,0.8236,other
+A88 0.3 uM,2,run6,81,0.871,other
+A88 0.3 uM,2,run6,87,0.2556,other
+A88 0.3 uM,2,run6,88,12.8588,target
+A88 0.3 uM,2,run6,92,0.3407,other
+A88 0.3 uM,2,run6,96,0.79,other
+A88 0.3 uM,3,run5,30,1.1599,other
+A88 0.3 uM,3,run5,36,1.6511,other
+A88 0.3 uM,3,run5,47,0.5842,other
+A88 0.3 uM,3,run5,52,0.0757,other
+A88 0.3 uM,3,run5,54,0.9206,other
+A88 0.3 uM,3,run5,62,0.118,other
+A88 0.3 uM,3,run5,65,0.192,other
+A88 0.3 uM,3,run5,71,0.0599,other
+A88 0.3 uM,3,run5,73,2.409,other
+A88 0.3 uM,3,run5,74,3.2621,target
+A88 0.3 uM,3,run5,79,1.0082,other
+A88 0.3 uM,3,run5,81,1.0523,other
+A88 0.3 uM,3,run5,87,0.2243,other
+A88 0.3 uM,3,run5,88,12.1133,target
+A88 0.3 uM,3,run5,92,0.4045,other
+A88 0.3 uM,3,run5,96,1.055,other
+A88 0.3 uM,4,run5,30,1.5448,other
+A88 0.3 uM,4,run5,36,2.1251,other
+A88 0.3 uM,4,run5,47,0.706,other
+A88 0.3 uM,4,run5,52,0.0554,other
+A88 0.3 uM,4,run5,54,1.2123,other
+A88 0.3 uM,4,run5,62,0.183,other
+A88 0.3 uM,4,run5,65,0.2538,other
+A88 0.3 uM,4,run5,71,0.0583,other
+A88 0.3 uM,4,run5,73,2.9615,other
+A88 0.3 uM,4,run5,74,3.9752,target
+A88 0.3 uM,4,run5,79,1.2729,other
+A88 0.3 uM,4,run5,81,1.3548,other
+A88 0.3 uM,4,run5,87,0.337,other
+A88 0.3 uM,4,run5,88,14.9193,target
+A88 0.3 uM,4,run5,92,0.4543,other
+A88 0.3 uM,4,run5,96,1.3125,other
+A88 1 uM,1,run1,30,3.5258,other
+A88 1 uM,1,run1,36,2.9531,other
+A88 1 uM,1,run1,47,0.6723,other
+A88 1 uM,1,run1,52,0.0,other
+A88 1 uM,1,run1,54,0.0,other
+A88 1 uM,1,run1,62,0.0,other
+A88 1 uM,1,run1,65,0.0,other
+A88 1 uM,1,run1,71,0.1112,other
+A88 1 uM,1,run1,73,2.308,other
+A88 1 uM,1,run1,74,6.9033,target
+A88 1 uM,1,run1,79,0.8205,other
+A88 1 uM,1,run1,81,0.413,other
+A88 1 uM,1,run1,87,0.331,other
+A88 1 uM,1,run1,88,34.8981,target
+A88 1 uM,1,run1,92,0.5007,other
+A88 1 uM,1,run1,96,0.8293,other
+A88 1 uM,2,run6,30,1.3732,other
+A88 1 uM,2,run6,36,1.6557,other
+A88 1 uM,2,run6,47,0.5473,other
+A88 1 uM,2,run6,52,0.0356,other
+A88 1 uM,2,run6,54,0.9523,other
+A88 1 uM,2,run6,62,0.1295,other
+A88 1 uM,2,run6,65,0.2141,other
+A88 1 uM,2,run6,71,0.0492,other
+A88 1 uM,2,run6,73,2.0259,other
+A88 1 uM,2,run6,74,3.055,target
+A88 1 uM,2,run6,79,0.7628,other
+A88 1 uM,2,run6,81,0.8885,other
+A88 1 uM,2,run6,87,0.3018,other
+A88 1 uM,2,run6,88,15.2807,target
+A88 1 uM,2,run6,92,0.3264,other
+A88 1 uM,2,run6,96,0.819,other
+A88 1 uM,3,run5,30,1.6213,other
+A88 1 uM,3,run5,36,2.1684,other
+A88 1 uM,3,run5,47,0.7548,other
+A88 1 uM,3,run5,52,0.0847,other
+A88 1 uM,3,run5,54,1.2255,other
+A88 1 uM,3,run5,62,0.1623,other
+A88 1 uM,3,run5,65,0.3048,other
+A88 1 uM,3,run5,71,0.047,other
+A88 1 uM,3,run5,73,3.1393,other
+A88 1 uM,3,run5,74,4.3071,target
+A88 1 uM,3,run5,79,1.2447,other
+A88 1 uM,3,run5,81,1.3387,other
+A88 1 uM,3,run5,87,0.3771,other
+A88 1 uM,3,run5,88,16.7683,target
+A88 1 uM,3,run5,92,0.4735,other
+A88 1 uM,3,run5,96,1.3789,other
+A88 1 uM,4,run5,30,1.5673,other
+A88 1 uM,4,run5,36,2.0376,other
+A88 1 uM,4,run5,47,0.7051,other
+A88 1 uM,4,run5,52,0.0679,other
+A88 1 uM,4,run5,54,1.224,other
+A88 1 uM,4,run5,62,0.1418,other
+A88 1 uM,4,run5,65,0.2408,other
+A88 1 uM,4,run5,71,0.0562,other
+A88 1 uM,4,run5,73,2.9469,other
+A88 1 uM,4,run5,74,3.8756,target
+A88 1 uM,4,run5,79,1.2485,other
+A88 1 uM,4,run5,81,1.2688,other
+A88 1 uM,4,run5,87,0.3269,other
+A88 1 uM,4,run5,88,15.2243,target
+A88 1 uM,4,run5,92,0.455,other
+A88 1 uM,4,run5,96,1.2317,other
+No guide,1,run1,30,0.3604,other
+No guide,1,run1,36,0.2266,other
+No guide,1,run1,47,0.1278,other
+No guide,1,run1,52,0.0,other
+No guide,1,run1,54,0.0,other
+No guide,1,run1,62,0.0,other
+No guide,1,run1,65,0.0,other
+No guide,1,run1,71,0.0352,other
+No guide,1,run1,73,0.8616,other
+No guide,1,run1,74,1.3048,target
+No guide,1,run1,79,0.4856,other
+No guide,1,run1,81,0.6284,other
+No guide,1,run1,87,0.076,other
+No guide,1,run1,88,0.5977,target
+No guide,1,run1,92,0.1729,other
+No guide,1,run1,96,0.2973,other
+No guide,2,run2,30,0.0115,other
+No guide,2,run2,36,0.023,other
+No guide,2,run2,47,0.0172,other
+No guide,2,run2,52,0.0115,other
+No guide,2,run2,54,0.0288,other
+No guide,2,run2,62,0.0403,other
+No guide,2,run2,65,0.0058,other
+No guide,2,run2,71,0.0173,other
+No guide,2,run2,73,0.0288,other
+No guide,2,run2,74,0.0692,target
+No guide,2,run2,79,0.0231,other
+No guide,2,run2,81,0.0231,other
+No guide,2,run2,87,0.0173,other
+No guide,2,run2,88,0.0462,target
+No guide,2,run2,92,0.0173,other
+No guide,2,run2,96,0.0058,other
+No guide,3,run6,30,0.0288,other
+No guide,3,run6,36,0.0192,other
+No guide,3,run6,47,0.0096,other
+No guide,3,run6,52,0.0193,other
+No guide,3,run6,54,0.0289,other
+No guide,3,run6,62,0.0193,other
+No guide,3,run6,65,0.0048,other
+No guide,3,run6,71,0.0048,other
+No guide,3,run6,73,0.0145,other
+No guide,3,run6,74,0.0434,target
+No guide,3,run6,79,0.0193,other
+No guide,3,run6,81,0.0241,other
+No guide,3,run6,87,0.0193,other
+No guide,3,run6,88,0.0773,target
+No guide,3,run6,92,0.0387,other
+No guide,3,run6,96,0.029,other
+No guide,4,run5,30,0.0554,other
+No guide,4,run5,36,0.0358,other
+No guide,4,run5,47,0.0181,other
+No guide,4,run5,52,0.0244,other
+No guide,4,run5,54,0.0265,other
+No guide,4,run5,62,0.0332,other
+No guide,4,run5,65,0.0147,other
+No guide,4,run5,71,0.0232,other
+No guide,4,run5,73,0.0295,other
+No guide,4,run5,74,0.0211,target
+No guide,4,run5,79,0.0338,other
+No guide,4,run5,81,0.0191,other
+No guide,4,run5,87,0.0447,other
+No guide,4,run5,88,0.0724,target
+No guide,4,run5,92,0.0427,other
+No guide,4,run5,96,0.0299,other
+Scramble,1,run2,30,0.0288,other
+Scramble,1,run2,36,0.0072,other
+Scramble,1,run2,47,0.0108,other
+Scramble,1,run2,52,0.0253,other
+Scramble,1,run2,54,0.0216,other
+Scramble,1,run2,62,0.0108,other
+Scramble,1,run2,65,0.0108,other
+Scramble,1,run2,71,0.0072,other
+Scramble,1,run2,73,0.0253,other
+Scramble,1,run2,74,0.0398,target
+Scramble,1,run2,79,0.0108,other
+Scramble,1,run2,81,0.047,other
+Scramble,1,run2,87,0.0217,other
+Scramble,1,run2,88,0.0398,target
+Scramble,1,run2,92,0.0109,other
+Scramble,1,run2,96,0.0,other
+Scramble,2,run3,30,0.0101,other
+Scramble,2,run3,36,0.0169,other
+Scramble,2,run3,47,0.0068,other
+Scramble,2,run3,52,0.0101,other
+Scramble,2,run3,54,0.0068,other
+Scramble,2,run3,62,0.0203,other
+Scramble,2,run3,65,0.0068,other
+Scramble,2,run3,71,0.0135,other
+Scramble,2,run3,73,0.0203,other
+Scramble,2,run3,74,0.0406,target
+Scramble,2,run3,79,0.0101,other
+Scramble,2,run3,81,0.0135,other
+Scramble,2,run3,87,0.0338,other
+Scramble,2,run3,88,0.0406,target
+Scramble,2,run3,92,0.0304,other
+Scramble,2,run3,96,0.0101,other
+Scramble,3,run6,30,0.0234,other
+Scramble,3,run6,36,0.0304,other
+Scramble,3,run6,47,0.0136,other
+Scramble,3,run6,52,0.0238,other
+Scramble,3,run6,54,0.017,other
+Scramble,3,run6,62,0.0273,other
+Scramble,3,run6,65,0.0136,other
+Scramble,3,run6,71,0.0205,other
+Scramble,3,run6,73,0.0308,other
+Scramble,3,run6,74,0.0171,target
+Scramble,3,run6,79,0.0103,other
+Scramble,3,run6,81,0.0515,other
+Scramble,3,run6,87,0.0379,other
+Scramble,3,run6,88,0.0482,target
+Scramble,3,run6,92,0.0314,other
+Scramble,3,run6,96,0.0174,other
+Scramble,4,run5,30,0.8128,other
+Scramble,4,run5,36,1.3798,other
+Scramble,4,run5,47,0.5619,other
+Scramble,4,run5,52,0.058,other
+Scramble,4,run5,54,0.8633,other
+Scramble,4,run5,62,0.0907,other
+Scramble,4,run5,65,0.2468,other
+Scramble,4,run5,71,0.0744,other
+Scramble,4,run5,73,2.4423,other
+Scramble,4,run5,74,2.822,target
+Scramble,4,run5,79,1.1697,other
+Scramble,4,run5,81,1.2588,other
+Scramble,4,run5,87,0.2382,other
+Scramble,4,run5,88,1.693,target
+Scramble,4,run5,92,0.3473,other
+Scramble,4,run5,96,1.1932,other
