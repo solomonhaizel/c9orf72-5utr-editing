@@ -1,4 +1,4 @@
-# C9ORF72 5′UTR RNA-editing — figure source
+# C9ORF72 5′UTR RNA-editing: figure source
 
 Data and code to regenerate the A-to-I editing figures (A74, A88, and the ACTB
 positive control) for the C9ORF72 5′UTR manuscript. RNA-editing (amplicon-seq)
@@ -44,7 +44,7 @@ results/   stats_table.csv
 
 ## Data
 
-Raw reads: SRA BioProject **PRJNAxxxxxx** (add at release). Figure-input tables
+Raw reads: SRA BioProject **PRJNA1514796**. Figure-input tables
 are in `data/`.
 
 ## License
