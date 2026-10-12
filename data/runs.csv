@@ -1,8 +1,8 @@
 run_id,azenta_report,construct,replicates,note
-run1,30-1295739537,A74;A88;ACTB,A74/A88 rep1; ACTB rep1-2,
+run1,30-1295739537,A74;A88,A74/A88 rep1,
 run2,30-1347897824,A74,rep2,
 run3,30-1351546007,A74,rep3,
 run4,30-1352705054,A74,rep4,
 run5,30-1359468605,A88,rep3;rep4,
 run6,30-1364240467,A88,rep2,
-run7,30-1365260844,ACTB,rep3,
+run8,30-1369170013,ACTB,No guide/Scramble/0.3 uM rep1-2,

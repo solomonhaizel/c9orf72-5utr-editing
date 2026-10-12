@@ -21,10 +21,10 @@ for (con in unique(d$construct)) {
     n <- length(v); m <- mean(v); s <- sd(v)
     endpoint   <- sprintf("%s editing, %s", con, dose)
     comparison <- "guide vs matched no-guide (paired difference vs 0)"
-    if (n < 3) {
+    if (n < 3 || dose == "scramble") {
       rows[[length(rows)+1]] <- data.frame(
         endpoint, comparison, n, paired = "yes",
-        test = "none (n<3, descriptive only)",
+        test = if (dose == "scramble") "none (negative control, descriptive only)" else "none (n<3, descriptive only)",
         mean_net = round(m,3), sd = round(s,3),
         statistic = NA, df = NA, p_raw = NA, p_adj = NA,
         cohens_dz = NA, ci95_low = NA, ci95_high = NA)

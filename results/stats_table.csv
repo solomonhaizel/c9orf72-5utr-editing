@@ -1,8 +1,9 @@
 "endpoint","comparison","n","paired","test","mean_net","sd","statistic","df","p_raw","p_adj","cohens_dz","ci95_low","ci95_high"
-"A74 editing, 0.3 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",11.33,5.139,4.409,3,0.02165,0.02686,2.204,3.152,19.508
-"A74 editing, 1 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",19.904,8.634,4.611,3,0.01919,0.02686,2.305,6.165,33.642
-"A88 editing, 0.3 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",14.02,1.993,14.068,3,0.0007779,0.004667,7.034,10.848,17.192
-"A88 editing, 1 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",20.332,9.34,4.354,3,0.02238,0.02686,2.177,5.471,35.194
-"ACTB editing, 0.3 uM","guide vs matched no-guide (paired difference vs 0)",3,"yes","one-sample t on paired differences (= paired t vs no-guide)",9.573,3.178,5.218,2,0.03482,0.03482,3.013,1.679,17.466
-"ACTB editing, 1 uM","guide vs matched no-guide (paired difference vs 0)",3,"yes","one-sample t on paired differences (= paired t vs no-guide)",16.611,3.083,9.333,2,0.01129,0.02686,5.389,8.953,24.268
-"ACTB editing, scramble","guide vs matched no-guide (paired difference vs 0)",1,"yes","none (n<3, descriptive only)",-0.165,NA,NA,NA,NA,NA,NA,NA,NA
+"A74 editing, 0.3 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",11.33,5.139,4.409,3,0.02165,0.02238,2.204,3.152,19.508
+"A74 editing, 1 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",19.904,8.634,4.611,3,0.01919,0.02238,2.305,6.165,33.642
+"A74 editing, scramble","guide vs matched no-guide (paired difference vs 0)",2,"yes","none (negative control, descriptive only)",-0.003,0.038,NA,NA,NA,NA,NA,NA,NA
+"A88 editing, 0.3 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",14.02,1.993,14.068,3,0.0007779,0.003112,7.034,10.848,17.192
+"A88 editing, 1 uM","guide vs matched no-guide (paired difference vs 0)",4,"yes","one-sample t on paired differences (= paired t vs no-guide)",20.332,9.34,4.354,3,0.02238,0.02238,2.177,5.471,35.194
+"A88 editing, scramble","guide vs matched no-guide (paired difference vs 0)",3,"yes","none (negative control, descriptive only)",1.086,0.966,NA,NA,NA,NA,NA,NA,NA
+"ACTB editing, 0.3 uM","guide vs matched no-guide (paired difference vs 0)",2,"yes","none (n<3, descriptive only)",23.503,0.678,NA,NA,NA,NA,NA,NA,NA
+"ACTB editing, scramble","guide vs matched no-guide (paired difference vs 0)",2,"yes","none (negative control, descriptive only)",-0.011,0.001,NA,NA,NA,NA,NA,NA,NA
