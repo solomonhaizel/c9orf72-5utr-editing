@@ -18,6 +18,9 @@ symbol is used only for display in figures.
 | **net_pct** | **BACKGROUND-SUBTRACTED** editing = guide_raw_pct − noguide_raw_pct |
 
 ## data/bystander_by_rep.csv  (amplicon-wide adenosine scan)
+
+> Note: this scan shows a representative subset of replicates (a per-position QC view) rather than every sequenced sample, so its replicate count can be smaller than that of data/editing_by_rep.csv and the SRA deposit; quantitative editing values and replicate counts come from editing_by_rep.csv.
+
 | column | meaning |
 |---|---|
 | condition | A74/A88 guide at each dose, No guide, or Scramble |
